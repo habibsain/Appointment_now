@@ -1,2 +1,2 @@
 # Appointment_now
-Get your doc’s appointment now
+Get your doc’s appointment
